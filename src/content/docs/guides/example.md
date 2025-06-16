@@ -1,11 +1,10 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: About us
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+# About Us
+Land Your Site was founded with a clear mission: to help businesses and creators launch beautiful, functional websites that truly reflect their unique identities. We specialise in website development, content creation, and visual design, delivering seamless digital experiences that engage and convert.
 
-## Further reading
+Whether you're starting from scratch or refreshing your online presence, we guide you from idea to launch — with creativity, clarity, and care. At Land Your Site, we believe a great website is more than just pixels and code; it's your digital home, and we're here to make sure it feels just right.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+Let’s build something brilliant together.
